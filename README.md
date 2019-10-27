@@ -3,6 +3,6 @@ Feature extraction, Linear Regression, Decision Tree Regression and Random Fores
 
 Dataset is obtained from https://github.com/fivethirtyeight/data/tree/master/soccer-spi.
 
-Documentation is included in the jupyter notebook file named [ScorePrediction](../notebooks/ScorePrediction.ipynb)
+Documentation is included in the jupyter notebook file named [ScorePrediction](./notebooks/ScorePrediction.ipynb)
 
 © 2019 GitHub, Inc.
